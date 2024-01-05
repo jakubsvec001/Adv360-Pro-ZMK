@@ -1,9 +1,3 @@
-macro_tester: macro_tester{
-compatible = "zmk,behavior-macro";
-label = "macro_tester";
-#binding-cells = <0>;
-bindings = ;
-};
 macro_back-tab: macro_back-tab{
 compatible = "zmk,behavior-macro";
 label = "macro_back-tab";
